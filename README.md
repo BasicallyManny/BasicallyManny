@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manfred Fong
 ====================================================================================================================================
 
-Computer Science student at University at Albany
+Computer Science student at the University at Albany
 ------------------------------------------------
 
-Over the last four years, I have actively developed my skills in computer programming. I am proficient in languages and technologies like HTML, CSS, JavaScript, and React. I have gained practical experience building web applications and interactive interfaces using these common front-end development tools. As an aspiring developer, I am fully engaged in expanding my capabilities through a diverse array of independent projects as well as formal training. I eagerly track the newest developments in technologies and best practices to remain fully up-to-date within this rapidly evolving field. I have been actively expanding my working knowledge of cloud-based computing and adopting test-driven development methods.
+Over the past four years, I have consciously cultivated mastery across several programming languages and front-end web development technologies. I have attained high proficiency in HTML, CSS, JavaScript, and the React framework through practical projects. Therewith, I have amassed tangible experience constructing interactive web applications, interfaces, and APIs. I strive to remain a flexible, adaptive programmer with a modern skillset. I look forward to learning new frameworks and the best practices in software engineering. Recently, I have expanded my capabilities into cloud computing and initiated the utilization of test-driven development techniques. I actively augment my credentials as a developer between independent ventures and collaborations. As the field evolves rapidly, I strive to persist as a versatile, adaptive programmer possessing contemporary capabilities. I eagerly uptake novel languages, frameworks, and programming paradigms. I derive immense gratification from conquering uncharted technical challenges. My ambition is to tender multifarious development aptitudes across today’s technological landscape.
 
 * 🌍  I'm based in New York, New York
 * ✉️  You can contact me at [mafong081102@gmail.com](mailto:mafong081102@gmail.com)
