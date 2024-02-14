@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science student at the University at Albany
 ------------------------------------------------
 
-Over the past four years, I have consciously cultivated mastery across several programming languages and front-end web development technologies. I have attained high proficiency in HTML, CSS, JavaScript, and the React framework through practical projects. Therewith, I have amassed tangible experience constructing interactive web applications, interfaces, and APIs. I strive to remain a flexible, adaptive programmer with a modern skillset. I look forward to learning new frameworks and the best practices in software engineering. 
+Over the past four years, I have consciously cultivated mastery across several programming languages and front-end web development technologies. Through practical projects, I have attained high proficiency in HTML, CSS, JavaScript, and the React framework. Therewith, I have amassed tangible experience constructing interactive web applications, interfaces, and APIs. I strive to remain a flexible, adaptive programmer with a modern skillset. I look forward to learning new frameworks and the best practices in software engineering. 
 
 * 🌍  I'm based in New York, New York
 * ✉️  You can contact me at [fongmanfred@gmail.com](mailto:fongmanfred@gmail.com)
