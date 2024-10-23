@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-Computer Science student at the University of Albany who is passionate and driven, with a strong focus on Web Development, Software Engineering, and Artificial Intelligence. Actively enhancing my knowledge, I have been diving into new frameworks such as LangChain, a dynamic framework for creating AI-based applications. My practical experience has prepared me with a contemporary skillset, allowing me to combine AI features into my projects smoothly. I love technology and am determined to get things right, so I look forward to adding my talents and excitement to a lively team. I am good in fast-paced environments that make people grow and innovate, and I look forward to the new career stage.
+Computer Science Graduate from the University of Albany who is passionate and driven, with a strong focus on Web Development, Software Engineering, and Artificial Intelligence. Actively enhancing my knowledge, I have been diving into new frameworks such as LangChain, a dynamic framework for creating AI-based applications. My practical experience has prepared me with a contemporary skillset, allowing me to smoothly combine AI features into my projects. I love technology and am determined to get things right, so I look forward to adding my talents and excitement to a lively team. I am good in fast-paced environments that make people grow and innovate, and I look forward to the new career stage.
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [fongmanfred@gmail.com](mailto:fongmanfred@gmail.com)
