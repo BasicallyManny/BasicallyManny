@@ -41,10 +41,6 @@ I'm always learning and expanding my skillset, and I look forward to contributin
 
 ---
 
-### GitHub Stats
-
-![Manfred's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BasicallyManny&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true&theme=radical)
-
 ### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BasicallyManny&layout=compact&langs_count=6&theme=radical)
